@@ -2121,7 +2121,7 @@ body {
 }
 .cid-rGbBjzjkIQ {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rGbBjzjkIQ .mbr-section-subtitle {
@@ -2215,6 +2215,9 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #6a758a;
+}
+.cid-rGgOWInFNR .media-container-row .mbr-text {
+  text-align: right;
 }
 .cid-rGgPybzmpy .navbar {
   padding: .5rem 0;
@@ -2926,4 +2929,7 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #6a758a;
+}
+.cid-rGgPyhl0GX .media-container-row .mbr-text {
+  text-align: right;
 }
