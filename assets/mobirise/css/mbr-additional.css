@@ -2212,6 +2212,30 @@ body {
 .cid-rGbBjzjkIQ .card-title {
   color: #6a758a;
 }
+.cid-rMjE2V5pwb {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rMjE2V5pwb .title {
+  margin-bottom: 2rem;
+}
+.cid-rMjE2V5pwb .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rMjE2V5pwb a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rMjE2V5pwb a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rMjE2V5pwb textarea.form-control {
+  min-height: 188px;
+}
+.cid-rMjE2V5pwb H2 {
+  color: #6a758a;
+}
 .cid-rGgOWInFNR {
   padding-top: 30px;
   padding-bottom: 30px;
