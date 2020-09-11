@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "jodielam",
-    "currentPage": "IA Website.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 130,
     "versionPublish": "4.11.6",
@@ -17,7 +17,7 @@
         "dangerColor": "#fefefe",
         "mainFont": "Rubik",
         "display1Font": "Muli",
-        "display1Size": "1.8",
+        "display1Size": "1.6",
         "display2Font": "Pacifico",
         "display2Size": 3,
         "display5Font": "Pacifico",
@@ -2502,7 +2502,9 @@
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "content8-3l"
+          "_anchor": "content8-3l",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "alias": false,
